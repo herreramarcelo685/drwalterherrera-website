@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://drwalterherrera.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://drwalterherrera.com/__l5e/assets-v1/e16e7b77-035b-48c3-b763-16047d0411cf/dr-walter-herrera.png</image:loc>
+      <image:title>Dr. Walter John Herrera Rucaj - Cardiólogo Intervencionista en San Salvador</image:title>
+      <image:caption>Retrato del Dr. Walter Herrera, cardiólogo intervencionista en San Salvador, El Salvador.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drwalterherrera.com/__l5e/assets-v1/659fcd3a-f5fa-43df-b45a-44477b1a00d1/dr-walter-herrera-cateterismo.png</image:loc>
+      <image:title>Cateterismo cardíaco - Dr. Walter Herrera en sala de hemodinamia</image:title>
+      <image:caption>Dr. Walter Herrera realizando cateterismo cardíaco y angioplastía coronaria con stent en sala de hemodinamia.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://drwalterherrera.com/__l5e/assets-v1/0075f009-4817-407b-86aa-0f618d6b66f9/dr-walter-herrera-angioplastia.png</image:loc>
+      <image:title>Angioplastía coronaria - Procedimiento de cardiología intervencionista</image:title>
+      <image:caption>Procedimiento de cardiología intervencionista realizado por el Dr. Walter John Herrera Rucaj en San Salvador.</image:caption>
+    </image:image>
+  </url>
+</urlset>
